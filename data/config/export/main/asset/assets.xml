@@ -1,0 +1,13 @@
+<ModOps>
+  <ModOp Type="merge" GUID='1010062' Path="/Values/ItemContainer">
+    <ItemContainer>
+      <InitSlotItems>
+        <Item>
+          <Item>121023</Item>
+          <StackSize>1</StackSize>
+          <!--<FixedSlotContent>0</FixedSlotContent>-->
+          <!--<InitSocketItems />-->
+        </Item>
+      </InitSlotItems>
+    </ItemContainer>
+</ModOps>

@@ -1,0 +1,52 @@
+{
+  "Version": "0.0.1",
+  "ModID": "ShipsPreItems",
+  "DeprecateIds": [],
+  "LoadAfterIds": [],
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "English": "Gameplay",
+    "Chinese": "Gameplay",
+    "French": "Gameplay",
+    "German": "Gameplay",
+    "Italian": "Gameplay",
+    "Japanese": "Gameplay",
+    "Korean": "Gameplay",
+    "Polish": "Gameplay",
+    "Russian": "Gameplay",
+    "Spanish": "Gameplay",
+    "Taiwanese": "Gameplay"
+  },
+  "ModName": {
+    "Chinese": "ShipsPreItems",
+    "English": "ShipsPreItems",
+    "French": "ShipsPreItems",
+    "German": "ShipsPreItems",
+    "Italian": "ShipsPreItems",
+    "Japanese": "ShipsPreItems",
+    "Korean": "ShipsPreItems",
+    "Polish": "ShipsPreItems",
+    "Russian": "ShipsPreItems",
+    "Spanish": "ShipsPreItems",
+    "Taiwanese": "ShipsPreItems"
+  },
+  "Description": {
+    "English": null,
+    "German": null,
+    "Chinese": null,
+    "French": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Pnski",
+  "CreatorContact": null,
+  "Image": null
+}
