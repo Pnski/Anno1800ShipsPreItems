@@ -1,13 +1,82 @@
 <ModOps>
+  <!-- Steel Ships -->
   <ModOp Type="merge" GUID='1010062' Path="/Values/ItemContainer">
     <ItemContainer>
-      <InitSlotItems>
+      <InitSocketItems>
         <Item>
           <Item>121023</Item>
+        </Item>
+        <Item>
+          <Item>191624</Item>
+        </Item>
+      </InitSocketItems>
+    </ItemContainer>
+  </ModOp>
+  <ModOp Type="merge" GUID='15835,132404' Path="/Values/ItemContainer">
+    <ItemContainer>
+      <InitSocketItems>
+        <Item>
+          <Item>191624</Item>
+        </Item>
+      </InitSocketItems>
+    </ItemContainer>
+  </ModOp>
+  <ModOp Type="merge" GUID='15836,118718' Path="/Values/ItemContainer">
+    <ItemContainer>
+      <InitSocketItems>
+        <Item>
+          <Item>121023</Item>
+        </Item>
+        <Item>
+          <Item>191624</Item>
+        </Item>
+        <Item>
+          <Item>191453</Item>
+        </Item>
+      </InitSocketItems>
+      <InitSlotItems>
+        <Item>
+          <Item>191626</Item>
           <StackSize>1</StackSize>
-          <!--<FixedSlotContent>0</FixedSlotContent>-->
-          <!--<InitSocketItems />-->
         </Item>
       </InitSlotItems>
     </ItemContainer>
+  </ModOp>
+  <!-- Air Ships -->
+  <ModOp Type="merge" GUID='1654,1733' Path="/Values/ItemContainer">
+    <ItemContainer>
+      <InitSocketItems>
+        <Item>
+          <Item>117303</Item>
+        </Item>
+      </InitSocketItems>
+    </ItemContainer>
+  </ModOp>
+  <ModOp Type="merge" GUID='1059,1736' Path="/Values/ItemContainer">
+    <ItemContainer>
+      <InitSocketItems>
+        <Item>
+          <Item>116175</Item>
+        </Item>
+        <Item>
+          <Item>117303</Item>
+        </Item>
+        <Item>
+          <Item>4133</Item>
+        </Item>
+      </InitSocketItems>
+    </ItemContainer>
+  </ModOp>
+  <ModOp Type="merge" GUID='1655,1058,1734,1735,1060,1737' Path="/Values/ItemContainer">
+    <ItemContainer>
+      <InitSocketItems>
+        <Item>
+          <Item>116175</Item>
+        </Item>
+        <Item>
+          <Item>117303</Item>
+        </Item>
+      </InitSocketItems>
+    </ItemContainer>
+  </ModOp>
 </ModOps>

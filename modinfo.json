@@ -6,17 +6,17 @@
   "IncompatibleIds": null,
   "ModDependencies": null,
   "Category": {
-    "English": "Gameplay",
-    "Chinese": "Gameplay",
-    "French": "Gameplay",
-    "German": "Gameplay",
-    "Italian": "Gameplay",
-    "Japanese": "Gameplay",
-    "Korean": "Gameplay",
-    "Polish": "Gameplay",
-    "Russian": "Gameplay",
-    "Spanish": "Gameplay",
-    "Taiwanese": "Gameplay"
+    "English": "Misc",
+    "Chinese": "Misc",
+    "French": "Misc",
+    "German": "Misc",
+    "Italian": "Misc",
+    "Japanese": "Misc",
+    "Korean": "Misc",
+    "Polish": "Misc",
+    "Russian": "Misc",
+    "Spanish": "Misc",
+    "Taiwanese": "Misc"
   },
   "ModName": {
     "Chinese": "ShipsPreItems",
@@ -46,7 +46,7 @@
   },
   "KnownIssues": null,
   "DLCDependencies": null,
-  "CreatorName": "Pnski",
+  "CreatorName": "Pnski, Stoffis",
   "CreatorContact": null,
   "Image": null
 }
