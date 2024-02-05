@@ -21,7 +21,7 @@
       </InitSocketItems>
     </ItemContainer>
   </ModOp>
-  <ModOp Type="merge" GUID='15836,118718' Path="/Values/ItemContainer">
+  <ModOp Type="merge" GUID='15836,118718,102455' Path="/Values/ItemContainer">
     <ItemContainer>
       <InitSocketItems>
         <Item>
